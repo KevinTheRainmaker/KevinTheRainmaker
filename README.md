@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KangbeenKo&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangbeenKo)](https://github.com/KangbeenKo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangbeenKo&&exclude_repo=Hanbit_Hongong_ML_DL&layout=compact)](https://github.com/KangbeenKo/github-readme-stats)
