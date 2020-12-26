@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KangbeenKo&show_icons=true)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
