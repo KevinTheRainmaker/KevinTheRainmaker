@@ -21,6 +21,7 @@
 - 2020 GIST 창의융합경진대회 알고리즘 부문 장려상(2등) (2020.08)
 
 
+----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
