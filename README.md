@@ -13,7 +13,7 @@
 - KakaoTalk ID: kgbko1117
 
 
-### 🔭 Attending in 
+### 🔭 I’m currently working on
 #### Gwangju Institute of Science and Technology(2019.03~)
 - Computational Systems Biology Lab. (2020.09~)
 
