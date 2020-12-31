@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 😄 Profile
-
+- Born in 1999, Nov. 17th
+- Blood Type: Rh+ A 
+- Attending in GIST 
+- Interested in ML&DL
 
 
 ### 📫 How to reach me
@@ -8,9 +11,11 @@
 - Email: eyeoftyphoon@gist.ac.kr / kgbko1117@naver.com / sweetrainforyou@gmail.com
 - KaKaoTalk: kgbko1117
 
+
 ### 🔭 Attending in 
 #### Gwangju Institute of Science and Technology(2019.03~)
 - Computational Systems Biology Lab. (2020.09~)
+
 
 ### ⚡ Prize & Honor
 - 2020 GIST 창의융합경진대회 알고리즘 부문 장려상(2등) (2020.08)
