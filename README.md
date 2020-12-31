@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangbeenKo&count_bg=%23C5CDFF&title_bg=%236DF560&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 😄 Profile
 - Born in 1999, Nov. 17th
 - Blood Type: Rh+ A 
@@ -24,7 +25,6 @@
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KangbeenKo&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KangbeenKo&show_icons=true&theme=onedark)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangbeenKo&&exclude_repo=Hanbit-HonGong-ML-DL&hide=html&layout=compact)](https://github.com/KangbeenKo/github-readme-stats)
