@@ -23,6 +23,15 @@
 - 2020 GIST 창의융합경진대회 알고리즘 부문 장려상(2위) (2020.08)
 - 2021 오아시스 해커톤(개발자) 오아시스 특별상(7위) (2021.01)
 
+
+### ✍ Currently Studying
+✔ **Python**
+✔ **Data Structure & Algorithms**
+✔ **Linear Algebra** - Book: Coding The Matrix, Lineaar Algebra 4th edition
+✔ **Machine/Deep Learning Basics** - Youtube: Sung Kim, 모두의 딥러닝 / Edwith: Andrew Ng, Deep Learning / Book: 박해선, 혼자 공부하는 머신러닝 딥러닝
+✔ **Discrete Mathmatics** 
+✔ **Automata Theory**
+✔ **TOEFL**
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
