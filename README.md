@@ -25,13 +25,13 @@
 
 
 ### ✍ Currently Studying
-✔ **Python**
-✔ **Data Structure & Algorithms**
-✔ **Linear Algebra** - Book: Coding The Matrix, Lineaar Algebra 4th edition
-✔ **Machine/Deep Learning Basics** - Youtube: Sung Kim, 모두의 딥러닝 / Edwith: Andrew Ng, Deep Learning / Book: 박해선, 혼자 공부하는 머신러닝 딥러닝
-✔ **Discrete Mathmatics** 
-✔ **Automata Theory**
-✔ **TOEFL**
+- **Python**</br>
+- **Data Structure & Algorithms**</br>
+- **Linear Algebra** </br>    - Book: Coding The Matrix, Lineaar Algebra 4th edition</br>
+- **Machine/Deep Learning Basics** </br>    - Youtube: Sung Kim, 모두의 딥러닝 / Edwith: Andrew Ng, Deep Learning / Book: 박해선, 혼자 공부하는 머신러닝 딥러닝</br>
+- **Discrete Mathmatics**</br>
+- **Automata Theory**</br>
+- **TOEFL**</br>
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
