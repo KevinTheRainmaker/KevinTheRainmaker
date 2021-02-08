@@ -45,7 +45,7 @@
 
 
 ### 💻 Lectures to Study
-- <a href = "https://github.com/KangbeenKo/Python-Basic">파이썬 코딩 무료강의</br>   (강의 링크: https://youtu.be/kWiCuklohdY)</a>
+- <a href = "https://github.com/KangbeenKo/Python-Basic">파이썬 코딩 무료강의</a></br>   (강의 링크: https://youtu.be/kWiCuklohdY)
 - <a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">패스트캠퍼스: 머신러닝과 데이터분석 A-Z</a>
 - 패스트캠퍼스: 딥러닝/인공지능
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z
