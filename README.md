@@ -35,10 +35,10 @@
 
 
 ### 📚 Books to Read
-- <a href = https://www.notion.so/36d16731de53449d98c68b68ff45476f?v=0f449a9e44ee42b7842bb5cd4d9f485c>열혈 자료구조, 윤성우 저, 오렌지미디어 (177/600)</a>
-- <a href = https://github.com/KangbeenKo/Hanbit-HonGong-ML-DL>혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (86/550)</a>
+- <a href = "https://www.notion.so/36d16731de53449d98c68b68ff45476f?v=0f449a9e44ee42b7842bb5cd4d9f485c">열혈 자료구조, 윤성우 저, 오렌지미디어 (177/600)</a>
+- <a href = "https://github.com/KangbeenKo/Hanbit-HonGong-ML-DL">혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (86/550)</a>
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)
-- <a href = https://github.com/KangbeenKo/Coding_The_Matri>Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)</a>
+- <a href = "https://github.com/KangbeenKo/Coding_The_Matrix">Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)</a>
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)
 - 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)
 - 미래를 바꾼 아홉 가지 알고리즘, 존 맥코믹 저, 에이콘 (29/307)
