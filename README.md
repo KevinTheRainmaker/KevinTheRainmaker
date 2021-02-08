@@ -29,9 +29,6 @@
 - **Data Structure & Algorithms**</br>
 - **Linear Algebra** </br>
 - **Machine/Deep Learning Basics** </br>
-- **Discrete Mathmatics**</br>
-- **Automata Theory**</br>
-- **TOEFL**</br>
 
 
 ### 📚 Books to Read
