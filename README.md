@@ -45,12 +45,12 @@
 
 
 ### 💻 Lectures to Study
-- <a href = "https://github.com/KangbeenKo/Python-Basic">파이썬 코딩 무료강의 (강의 링크: https://youtu.be/kWiCuklohdY)</a>
+- <a href = "https://github.com/KangbeenKo/Python-Basic">파이썬 코딩 무료강의</br>   (강의 링크: https://youtu.be/kWiCuklohdY)</a>
 - <a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">패스트캠퍼스: 머신러닝과 데이터분석 A-Z</a>
 - 패스트캠퍼스: 딥러닝/인공지능
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z
-- Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님) (강의 링크: https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-- 에드위즈: 딥러닝 By. Andrew Ng (강의 링크: https://www.edwith.org/deeplearningai1)
+- Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)</br>   (강의 링크: https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+- 에드위즈: 딥러닝 By. Andrew Ng</br>    (강의 링크: https://www.edwith.org/deeplearningai1)
 - 인프런: 성공적인 코딩 인터뷰를 위한 코딩 인터뷰 정복하기 - 코딩 테스트
 - 인프런: 오라클 데이터베이스 11g 프로그래밍 기초 (상)
 ----
