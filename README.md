@@ -11,12 +11,12 @@
 - Phone: 010-8389-3146
 - Email: eyeoftyphoon@gist.ac.kr / kgbko1117@naver.com / sweetrainforyou@gmail.com
 - KakaoTalk ID: kgbko1117
-- Notion: https://www.notion.so/Hello-world-36f523dfab184b0ca095321a28704aab
+- <a href = "https://www.notion.so/Hello-world-36f523dfab184b0ca095321a28704aab">Notion</a>
 
 
 ### 🔭 I’m currently working on
 #### Gwangju Institute of Science and Technology(2019.03~)
-- Computational Systems Biology Lab. (2020.09~)
+- <a href = "https://www.biil-gist.net/">Computational Systems Biology Lab. (2020.09~)</a>
 
 
 ### ⚡ Prize & Honor
