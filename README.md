@@ -11,12 +11,12 @@
 - Phone: 010-8389-3146
 - Email: eyeoftyphoon@gist.ac.kr / kgbko1117@naver.com / sweetrainforyou@gmail.com
 - KakaoTalk ID: kgbko1117
-- <a href = "https://www.notion.so/Hello-world-36f523dfab184b0ca095321a28704aab">Notion</a>
+- Notion&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/Hello-world-36f523dfab184b0ca095321a28704aab">[Link]</a>
 
 
 ### 🔭 I’m currently working on
 #### Gwangju Institute of Science and Technology(2019.03~)
-- <a href = "https://www.biil-gist.net/">Bioinformatics and Intelligence Lab. (前 Computational Systems Biology Lab.)</a> (2020.09~)
+- Bioinformatics and Intelligence Lab. (前 Computational Systems Biology Lab.) (2020.09~)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
 
 
 ### ⚡ Prize & Honor
@@ -33,24 +33,24 @@
 
 
 ### 📚 Books to Read
-- <a href = "https://github.com/KangbeenKo/DataStructure">열혈 자료구조, 윤성우 저, 오렌지미디어</a> (191/600)
-- <a href = "https://github.com/KangbeenKo/Hanbit-HonGong-ML-DL">혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어</a> (86/550)
+- 열혈 자료구조, 윤성우 저, 오렌지미디어 (191/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/DataStructure">[Link]</a>
+- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (86/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/Hanbit-HonGong-ML-DL">[Link]</a>
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)
-- <a href = "https://github.com/KangbeenKo/Coding_The_Matrix">Coding The Matrix, 필립 클라인 저, 루비페이퍼</a> (--/588)
+- Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/Coding_The_Matrix">[Link]</a>
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)
 - 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)
 - 미래를 바꾼 아홉 가지 알고리즘, 존 맥코믹 저, 에이콘 (29/307)
 
 
 ### 💻 Lectures to Study
-- <a href = "https://github.com/KangbeenKo/Python-Basic">파이썬 코딩 무료강의</a></br>   (강의 링크: https://youtu.be/kWiCuklohdY)
-- 패스트캠퍼스: 머신러닝과 데이터분석 A-Z
+- 파이썬 코딩 무료 강의&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/Python-Basic">[Link]</a>&nbsp;&nbsp;<a href = "https://youtu.be/kWiCuklohdY">[Lecture]</a>
+- 패스트캠퍼스: 머신러닝과 데이터분석 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 - 패스트캠퍼스: 딥러닝/인공지능
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z
-- Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)</br>   (강의 링크: https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-- 에드위즈: 딥러닝 By. Andrew Ng</br>    (강의 링크: https://www.edwith.org/deeplearningai1)
+- Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">[Lecture]</a>
+- 에드위즈: 딥러닝 By. Andrew Ng&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.edwith.org/deeplearningai1">[Lecture]</a>
 - 인프런: 성공적인 코딩 인터뷰를 위한 코딩 인터뷰 정복하기 - 코딩 테스트
-- 인프런: 데이터베이스 SQL 강의</br>   (강의 링크: https://www.inflearn.com/course/database-sql-basic/dashboard)
+- 인프런: 데이터베이스 SQL 강의 (무료)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.inflearn.com/course/database-sql-basic/dashboard">[Lecture]</a>
 - 인프런: 오라클 데이터베이스 11g 프로그래밍 기초 (상)
 ----
 <!--
