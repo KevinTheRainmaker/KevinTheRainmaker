@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me
 - Phone: 010-8389-3146
-- Email: eyeoftyphoon@gist.ac.kr / kgbko1117@naver.com / sweetrainforyou@gmail.com
+- Email
 - KakaoTalk ID: kgbko1117
 - Notion&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/Hello-world-36f523dfab184b0ca095321a28704aab">[Link]</a>
 
