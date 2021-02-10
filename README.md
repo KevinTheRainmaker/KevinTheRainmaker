@@ -33,7 +33,7 @@
 
 
 ### 📚 Books to Read
-- <a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">열혈 자료구조, 윤성우 저, 오렌지미디어</a> (191/600)
+- <a href = "https://github.com/KangbeenKo/DataStructure">열혈 자료구조, 윤성우 저, 오렌지미디어</a> (191/600)
 - <a href = "https://github.com/KangbeenKo/Hanbit-HonGong-ML-DL">혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어</a> (86/550)
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)
 - <a href = "https://github.com/KangbeenKo/Coding_The_Matrix">Coding The Matrix, 필립 클라인 저, 루비페이퍼</a> (--/588)
@@ -44,7 +44,7 @@
 
 ### 💻 Lectures to Study
 - <a href = "https://github.com/KangbeenKo/Python-Basic">파이썬 코딩 무료강의</a></br>   (강의 링크: https://youtu.be/kWiCuklohdY)
-- <a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">패스트캠퍼스: 머신러닝과 데이터분석 A-Z</a>
+- 패스트캠퍼스: 머신러닝과 데이터분석 A-Z
 - 패스트캠퍼스: 딥러닝/인공지능
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z
 - Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)</br>   (강의 링크: https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
