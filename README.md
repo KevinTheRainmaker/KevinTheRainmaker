@@ -21,7 +21,7 @@
 
 ### ⚡ Prize & Honor
 - 2020 GIST 창의융합경진대회 알고리즘 부문 장려상(2위) (2020.08)
-- 2021 오아시스 해커톤(개발자) 오아시스 특별상(7위) (2021.01)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/BugBug">[Link]</a>
+- 2021 오아시스 해커톤(개발자) 오아시스 특별상(7위) (2021.01)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/BugBug-B5-566195bdb1d7488e98b479a41589b3a8">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/BugBug">[Code]</a>
 
 ----
 
