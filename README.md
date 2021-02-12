@@ -26,15 +26,15 @@
 ----
 
 ### ✍ Currently Studying
-###1st
+### 1st
 - **Discrete Mathematics**
 - **Automata Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1220786">[Lecture]</a>
 - **Digital Design**
 - **Python**
-###2nd
+### 2nd
 - **Machine Learning Basics**
 - **Data Structure & Algoritms**
-###3rd
+### 3rd
 - **Paper review**
 
 
