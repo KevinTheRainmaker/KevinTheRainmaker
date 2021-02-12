@@ -27,7 +27,7 @@
 
 ### ✍ Currently Studying
 ### 1st
-- **Discrete Mathematics****&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1165096">[Lecture]</a>
+- **Discrete Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1165096">[Lecture]</a>
 - **Automata Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1220786">[Lecture]</a>
 - **Database**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1385412">[Lecture]</a>
 - **Python**
