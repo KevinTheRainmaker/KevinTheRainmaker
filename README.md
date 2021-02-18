@@ -56,7 +56,6 @@
 - Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)&nbsp;&nbsp;&nbsp;&nbsp;[Link]&nbsp;&nbsp;<a href = "https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">[Lecture]</a>
 - 에드위즈: 딥러닝 By. Andrew Ng&nbsp;&nbsp;&nbsp;&nbsp;[Link]&nbsp;&nbsp;<a href = "https://www.edwith.org/deeplearningai1">[Lecture]</a>
 - 인프런: 성공적인 코딩 인터뷰를 위한 코딩 인터뷰 정복하기 - 코딩 테스트&nbsp;&nbsp;&nbsp;&nbsp;[Link]&nbsp;&nbsp;[Lecture]
-- 인프런: 데이터베이스 SQL 강의 (무료)&nbsp;&nbsp;&nbsp;&nbsp;[Link]&nbsp;&nbsp;<a href = "https://www.inflearn.com/course/database-sql-basic/dashboard">[Lecture]</a>
 - 인프런: 오라클 데이터베이스 11g 프로그래밍 기초 (상)&nbsp;&nbsp;&nbsp;&nbsp;[Link]&nbsp;&nbsp;[Lecture]
 ----
 <!--
