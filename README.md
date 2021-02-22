@@ -27,7 +27,7 @@
 ### 1st
 - **Discrete Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1165096">[Lecture]</a>
 - **Automata Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1220786">[Lecture]</a>
-- **Database**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1385412">[Lecture]</a>
+- **Database**
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KangbeenKo/CodingTest">[Repo]</a>&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>
 ### 2nd
 - **Machine Learning Basics**
