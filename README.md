@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me
 - Phone: 010-8389-3146
-- Email: 
+- Email
 
 
 ### 🔭 I’m currently working on
