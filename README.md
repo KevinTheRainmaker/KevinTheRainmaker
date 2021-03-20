@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=html,jupyter%20notebook,javascript&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook,javascript&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
