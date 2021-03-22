@@ -26,7 +26,7 @@
 ### ✍ Currently Studying
 ### 1st
 - **Discrete Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1165096">[Lecture]</a>
-- **Automata Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://sites.google.com/view/automata2021/home">[Lecture]</a>
+- **Automata Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1220786&ar=relateCourse">[Lecture]</a>
 - **Database**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest/tree/main/Programmers/SQL">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>
 ### 2nd
