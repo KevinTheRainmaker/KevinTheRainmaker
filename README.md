@@ -44,6 +44,7 @@
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
 - 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
 - 미래를 바꾼 아홉 가지 알고리즘, 존 맥코믹 저, 에이콘 (29/307)
+- 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (--/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ.git">[Repo]</a>
 
 
 ### 💻 Lectures to Study
