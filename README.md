@@ -38,7 +38,7 @@
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (212/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">[Link]</a>&nbsp;&nbsp;(Last Update: 21.03.01)
-- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (129/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Hanbit-HonGong-ML-DL">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.02)
+- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (149/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Hanbit-HonGong-ML-DL">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.26)
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
 - Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_The_Matrix">[Repo]</a>
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
