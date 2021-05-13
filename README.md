@@ -33,7 +33,7 @@
 - **Machine Learning Basics**
 - **Data Structure & Algoritms**
 - **Spring Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Spring_Framework">[Repo]</a>
-- **Graph Theory**
+- **Graph Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/GraphTheory">[Repo]</a>
 ### 3rd
 - **Paper review**
 
