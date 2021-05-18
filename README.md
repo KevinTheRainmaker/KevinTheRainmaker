@@ -4,7 +4,7 @@
 - Born in 1999, Nov. 17th
 - Blood Type: Rh+ A 
 - Attending in GIST 
-- Interested in ML&DL - Reinforcement Learning
+- Interested in Reinforcement Learning
 </br>
 
 ### 📫 Contact Address
