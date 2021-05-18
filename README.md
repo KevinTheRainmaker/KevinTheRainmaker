@@ -8,8 +8,14 @@
 </br>
 
 ### 📫 Contact Address
-- Phone: 010-8389-3146
 - Email
+  - eyeoftyphoon@gist.ac.kr (Main)
+  - sweetrainforyou@gmail.com
+  - groupbyme@gmail.com
+</br>
+
+- Instagram (Daily)
+  - https://www.instagram.com/kevin_rain_99
 </br>
 
 
