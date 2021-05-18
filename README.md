@@ -15,7 +15,7 @@
 ### 🔭 I’m currently working on
 #### Gwangju Institute of Science and Technology(2019.03~)
 - Bioinformatics and Intelligence Lab. (前 Computational Systems Biology Lab.) (2020.09~)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
-- GIST Start-up '그룹바이(Group-By)' Algorithm Developer
+- Start up '그룹바이(Group-By)' CTO
 
 
 ### ⚡ Prize & Honor
