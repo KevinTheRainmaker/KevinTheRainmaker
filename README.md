@@ -29,7 +29,7 @@
 </br>
 
 
-### 👨‍💻 Working in
+### 💻 Working in
 - Start up 'Group By (그룹바이)'
 
   > CTO (2021.04~)
