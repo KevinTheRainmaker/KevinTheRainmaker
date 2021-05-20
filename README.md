@@ -24,10 +24,15 @@
   > Bachelor's degree (2019.03~)
   
   - GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
+
     > Intern (2020.09~)
-  
-  - Start up 'Group By (그룹바이)' 
-    > CTO (2021.04~)
+</br>
+
+
+### 👨‍💻 Working in
+- Start up 'Group By (그룹바이)'
+
+  > CTO (2021.04~)
 </br>
 
 
@@ -35,6 +40,7 @@
 - 2020 GIST 창의융합경진대회 알고리즘 부문 2위 (2020.08)
 - 2021 제1회 오아시스 해커톤 7위 (2021.01)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/BugBug">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/BugBug-B5-566195bdb1d7488e98b479a41589b3a8">[Link]</a>
 </br>
+
 
 ----
 
