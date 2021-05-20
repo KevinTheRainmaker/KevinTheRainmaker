@@ -70,7 +70,7 @@
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (25/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ.git">[Repo]</a>
 
 
-### 💻 Lectures to Study
+### ✒ Lectures to Study
 - 파이썬 코딩 무료 강의&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Python-Basic">[Repo]</a>&nbsp;&nbsp;<a href = "https://youtu.be/kWiCuklohdY">[Lecture]</a>
 - K-MOOC: 인공지능 및 기계학습 개론 I&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kooc.kaist.ac.kr/machinelearning1_17/joinLectures/9738">[Lecture]</a>
 - STAR-MOOC: Hands on Deep Learing&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://gist.edwith.org/hands-on-deep-learning-01/joinLectures/28004">[Lecture]</a>
