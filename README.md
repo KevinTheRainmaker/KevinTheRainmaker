@@ -101,3 +101,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
+
+<!--[![KevinTheRainmaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinTheRainmaker)](https://wakatime.com/@KevinTheRainmaker)-->
