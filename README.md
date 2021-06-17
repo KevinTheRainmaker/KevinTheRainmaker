@@ -46,18 +46,16 @@
 
 ### ✍ Currently Studying
 ### 1st
-- **Discrete Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1165096">[Lecture]</a>
-- **Automata Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.kocw.net/home/search/kemView.do?kemId=1220786&ar=relateCourse">[Lecture]</a>
-- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest/tree/main/Programmers/SQL">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
-- **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>
-### 2nd
 - **Machine Learning Basics**
 - **Data Structure & Algoritms**
+- **Data Analysis & Kaggle Tutorial**
+- **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>
+### 2nd
 - **Spring Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Spring_Framework">[Repo]</a>
 - **Graph Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/GraphTheory">[Repo]</a>
 ### 3rd
 - **Paper review**
-
+- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest/tree/main/Programmers/SQL">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (212/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">[Link]</a>&nbsp;&nbsp;(Last Update: 21.03.01)
