@@ -32,7 +32,7 @@
 ### 💻 Working in
 - Start up 'Group By (그룹바이)'
 
-  > CTO & Co-Founder (2021.06~)
+  > CTO & Co-Founder (2021.06~) : Algorithm Developer & ML Engineer
 </br>
 
 
