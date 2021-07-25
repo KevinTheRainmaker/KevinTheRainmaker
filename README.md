@@ -9,9 +9,8 @@
 
 ### 📫 Contact Address
 - Email
-  - eyeoftyphoon@gist.ac.kr (Main)
-  - sweetrainforyou@gmail.com
-  - groupbyme@gmail.com
+  - eyeoftyphoon@gist.ac.kr
+  - springrain@groupby.viz
 </br>
 
 - Instagram (Daily)
@@ -30,7 +29,7 @@
 
 
 ### 💻 Working in
-- Start up 'GroupBy (그룹바이)'
+- Start-up 'GroupBy (그룹바이)'
 
   > CTO & Co-Founder (2021.06~) : Algorithm Developer & ML Engineer
 </br>
