@@ -1,5 +1,12 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangbeenKo&count_bg=%23C5CDFF&title_bg=%236DF560&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
+
+----
 ### 😄 Profile
 - Born in 1999, Nov. 17th
 - Blood Type: Rh+ A 
@@ -94,11 +101,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
-
 
 <!--[![KevinTheRainmaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinTheRainmaker)](https://wakatime.com/@KevinTheRainmaker)-->
