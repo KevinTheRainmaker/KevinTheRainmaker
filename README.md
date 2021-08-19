@@ -3,9 +3,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
-
 ----
 ### 😄 Profile
 - Born in 1999, Nov. 17th
@@ -95,5 +92,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
 <!--[![KevinTheRainmaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinTheRainmaker)](https://wakatime.com/@KevinTheRainmaker)-->
