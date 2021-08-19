@@ -53,7 +53,7 @@
 - **Machine Learning Basics**
 - **Data Structure & Algoritms**
 - **Data Analysis & Kaggle Tutorial**
-- **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>
+- **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
 ### 2nd
 - **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "">[Repo]</a>
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Repo]</a>
