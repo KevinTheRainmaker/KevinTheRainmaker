@@ -58,11 +58,10 @@
 - **Data Analysis & Kaggle Tutorial**
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>
 ### 2nd
-- **Spring Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Spring_Framework">[Repo]</a>
-- **Graph Theory**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/GraphTheory">[Repo]</a>
+- **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "">[Repo]</a>
+- **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Repo]</a>
 ### 3rd
 - **Paper review**
-- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest/tree/main/Programmers/SQL">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (212/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">[Link]</a>&nbsp;&nbsp;(Last Update: 21.03.01)
@@ -77,16 +76,11 @@
 
 ### ✒ Lectures to Study
 - 파이썬 코딩 무료 강의&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Python-Basic">[Repo]</a>&nbsp;&nbsp;<a href = "https://youtu.be/kWiCuklohdY">[Lecture]</a>
-- K-MOOC: 인공지능 및 기계학습 개론 I&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kooc.kaist.ac.kr/machinelearning1_17/joinLectures/9738">[Lecture]</a>
-- STAR-MOOC: Hands on Deep Learing&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://gist.edwith.org/hands-on-deep-learning-01/joinLectures/28004">[Lecture]</a>
 - 패스트캠퍼스: 머신러닝과 데이터분석 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_dataadv">[Lecture]</a>
 - 패스트캠퍼스: 딥러닝/인공지능&nbsp;&nbsp;&nbsp;&nbsp;~~[Link]~~&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_deep">[Lecture]</a>
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ.git">[Repo]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_rein">[Lecture]</a>
 - Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)&nbsp;&nbsp;&nbsp;&nbsp;~~[Link]~~&nbsp;&nbsp;<a href = "https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">[Lecture]</a>
 - 에드위즈: 딥러닝 By. Andrew Ng&nbsp;&nbsp;&nbsp;&nbsp;~~[Link]~~&nbsp;&nbsp;<a href = "https://www.edwith.org/deeplearningai1">[Lecture]</a>
-- 인프런: 오라클 데이터베이스 11g 프로그래밍 기초 (상)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://inf.run/kGhn">[Lecture]</a>
-- 인프런: 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (배민 김영한)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8">[Lecture]</a>
-- KOCW: 응용 그래프 이론&nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://kocw.net/home/search/kemView.do?kemId=1346284">[Lecture]</a>
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
