@@ -51,7 +51,7 @@
 ### ✍ Currently Studying
 ### 1st
 - **Machine Learning Basics**
-- **Data Structure & Algoritms**
+- **Data Structure & Algorithms**
 - **Data Analysis & Kaggle Tutorial**
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
 ### 2nd
