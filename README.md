@@ -57,14 +57,14 @@
 ### ✍ Currently Studying
 ### 1st
 - **Machine Learning Basics**
-- **Data Analysis & Kaggle Tutorial**
+- **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "">[Repo]</a>
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Repo]</a>
 ### 2nd
-- **Paper review**
-- **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
-### 3rd
 - **Data Structure & Algorithms**
-- **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "">[Repo]</a>
+- **Paper review**
+### 3rd
+- **Data Analysis & Kaggle Tutorial**
+- **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (212/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.01)
