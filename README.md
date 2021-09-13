@@ -16,11 +16,15 @@
 ### 📫 Contact Address
 - Email
   - eyeoftyphoon@gist.ac.kr
+  - sweetrainforyou@gmail.com
   - springrain@groupby.viz
+  - gistgdsc@gmail.com
 </br>
 
-- Instagram (Daily)
-  - https://www.instagram.com/kevin_rain_99
+- Instagram
+  - <a href = "https://www.instagram.com/kevin_rain_99">Daily</a>
+  - <a href = "https://www.instagram.com/groupby_official/">GrouBy Official</a>
+  - <a href = "https://www.instagram.com/gdsc_kr_gist/">GDSC GIST Official</a>
 </br>
 <!-- 
 - Git-Blog
@@ -34,7 +38,7 @@
   
   - GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
 
-    > Intern (2020.09~)
+    > Intern (2020.09~2021.09)
 </br>
 
 
@@ -42,6 +46,11 @@
 - Start-up 'GroupBy (그룹바이)'
 
   > CTO & Co-Founder (2021.06~) : Algorithm Developer & ML Engineer
+</br>
+
+- <a href = "https://descriptive-ring-8dc.notion.site/GDSC-GIST-49027bc9e4d142b582ad7bde0e90b448">GDSC GIST</a>
+
+  > Core Member (2021.08~) : Tech Team
 </br>
 
 
