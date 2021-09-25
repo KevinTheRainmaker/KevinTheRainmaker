@@ -50,7 +50,8 @@
 
 - <a href = "https://descriptive-ring-8dc.notion.site/GDSC-GIST-49027bc9e4d142b582ad7bde0e90b448">GDSC GIST</a>
 
-  > Core Member (2021.08~) : Tech Team
+  > Core Member (2021.08~) : Technology Team
+  > Technical interviewer
 </br>
 
 
