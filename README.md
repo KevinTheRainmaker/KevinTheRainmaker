@@ -16,7 +16,7 @@
 ### 📫 Contact Address
 - Email
   - eyeoftyphoon@gist.ac.kr
-  - <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcSMScbVsLTBXCHTpgrngwSsSxLSCQVqftzFZtjDnQNpSVQGKZdQbxgdGJpWtlzpgsfgcNGjs">sweetrainforyou@gmail.com</a>
+  - <a href="mailto:sweetrainforyou@gmail.com">sweetrainforyou@gmail.com</a>
   - springrain@groupby.viz
   - gistgdsc@gmail.com
 </br>
