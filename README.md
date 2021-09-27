@@ -10,13 +10,13 @@
 - Born in 1999, Nov. 17th
 - Blood Type: Rh+ A 
 - Attending in GIST 
-- Interested in Reinforcement Learning
+- Interested in Reinforcement Learning / MLOps
 </br>
 
 ### 📫 Contact Address
 - Email
   - eyeoftyphoon@gist.ac.kr
-  - <a href="mailto:sweetrainforyou@gmail.com">sweetrainforyou@gmail.com</a>
+  - sweetrainforyou@gmail.com
   - springrain@groupby.viz
   - gistgdsc@gmail.com
 </br>
@@ -66,23 +66,24 @@
 
 ### ✍ Currently Studying
 ### 1st
-- **Machine Learning Basics**
-- **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Link]</a>&nbsp;&nbsp;<a href = "">[Repo]</a>
-- **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "">[Repo]</a>
+- **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>
+- **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Django_Study">[Repo]</a>
+- **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms">[Repo]</a>
+- **MLOps**
 ### 2nd
-- **Data Structure & Algorithms**
-- **Paper review**
+- **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
+- **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a>
 ### 3rd
-- **Data Analysis & Kaggle Tutorial**
+- **Data Analysis & Kaggle Tutorial**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Kaggle_Novice_to_GrandMaster">[Repo]</a>
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (212/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.01)
-- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (149/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Hanbit-HonGong-ML-DL">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.26)
-- 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
-- Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_The_Matrix">[Repo]</a>
-- 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
-- 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;~~[Repo]~~
+- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (149/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.26)
+- 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
+- Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_Mathematics/tree/master/Coding%20The%20Matrix">[Repo]</a>
+- 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
+- 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
 - 미래를 바꾼 아홉 가지 알고리즘, 존 맥코믹 저, 에이콘 (29/307)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (25/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ.git">[Repo]</a>
 
@@ -91,7 +92,7 @@
 - 파이썬 코딩 무료 강의&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://youtu.be/kWiCuklohdY">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Python-Basic">[Repo]</a>
 - 패스트캠퍼스: 머신러닝과 데이터분석 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_dataadv">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 - 패스트캠퍼스: 딥러닝/인공지능&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_deep">[Lecture]</a>&nbsp;&nbsp;
-- 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_rein">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ.git">[Repo]</a>
+- 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_rein">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
 - Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">[Lecture]</a>
 - 에드위즈: 딥러닝 By. Andrew Ng&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.edwith.org/deeplearningai1">[Lecture]</a>
 ----
