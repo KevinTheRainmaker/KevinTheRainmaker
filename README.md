@@ -70,7 +70,8 @@
 - **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>
 - **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Django_Study">[Repo]</a>
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms">[Repo]</a>
-- **MLOps**
+- **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
+- **NLP**
 ### 2nd
 - **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
 - **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a>
@@ -94,6 +95,7 @@
 - 패스트캠퍼스: 머신러닝과 데이터분석 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_dataadv">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 - 패스트캠퍼스: 딥러닝/인공지능&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_deep">[Lecture]</a>&nbsp;&nbsp;
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_rein">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
+- Coursera: Natural Language Processing in TensorFlow&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice">[Lecture]</a>
 - Youtube: 모두를 위한 딥러닝 강좌 시즌1 By. Sung Kim(김성훈 교수님)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">[Lecture]</a>
 - 에드위즈: 딥러닝 By. Andrew Ng&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.edwith.org/deeplearningai1">[Lecture]</a>
 ----
