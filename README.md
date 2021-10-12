@@ -34,11 +34,11 @@
 
 ### 🔭 Education
 - Gwangju Institute of Science and Technology (GIST, 광주과학기술원)
-  > Bachelor's degree (2019.03~)
+  - Bachelor's degree (2019.03~)
+  > Leave of Absence: for Venture (2021.09~2022.02)  
   
-  - GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
-
-    > Intern (2020.09~2021.09)
+- GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
+  - Intern (2020.09~2021.09)
 </br>
 
 
