@@ -72,7 +72,7 @@
 - **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Django_Study">[Repo]</a>
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms">[Repo]</a>
 - **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
-- **NLP**
+- **NLP**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/GDSC-GIST/AI-ML_Team_5">[Repo]</a>
 ### 2nd
 - **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
 - **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a>
@@ -87,6 +87,7 @@
 - Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_Mathematics/tree/master/Coding%20The%20Matrix">[Repo]</a>
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_Guide">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
 - 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/DL_from_Scratch">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
+- 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
 - 미래를 바꾼 아홉 가지 알고리즘, 존 맥코믹 저, 에이콘 (29/307)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (25/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
 
