@@ -26,8 +26,9 @@
   - <a href = "https://www.instagram.com/groupby_official/">GrouBy Official</a>
   - <a href = "https://www.instagram.com/gdsc_kr_gist/">GDSC GIST Official</a>
 </br>
+
 - Blog (Tistory)
-  - https://kevin-rain.tistory.com/
+  - <a href = "https://kevin-rain.tistory.com/">성장通</a>
 </br>
 
 
