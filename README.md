@@ -26,11 +26,10 @@
   - <a href = "https://www.instagram.com/groupby_official/">GrouBy Official</a>
   - <a href = "https://www.instagram.com/gdsc_kr_gist/">GDSC GIST Official</a>
 </br>
-<!-- 
-- Git-Blog
-  - https://www.instagram.com/kevin_rain_99
+- Blog (Tistory)
+  - https://kevin-rain.tistory.com/
 </br>
- -->
+
 
 ### 🔭 Education
 - Gwangju Institute of Science and Technology (GIST, 광주과학기술원)
