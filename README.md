@@ -18,7 +18,6 @@
   - eyeoftyphoon@gist.ac.kr
   - sweetrainforyou@gmail.com
   - springrain@groupby.viz
-  - gistgdsc@gmail.com
 </br>
 
 - Instagram
