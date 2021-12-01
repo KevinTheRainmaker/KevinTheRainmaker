@@ -34,7 +34,7 @@
 ### 🔭 Education
 - Gwangju Institute of Science and Technology (GIST, 광주과학기술원)
   - Bachelor's degree (2019.03~)
-  > Leave of Absence: for Venture (2021.09~2022.02)  
+  > Leave of absence for Start-up (2021.09~2022.02)  
 </br>
 
 
