@@ -83,24 +83,21 @@
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (212/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.notion.so/194898d259784eea8ed8de576bbab24d?v=6c36d6be64f74a67ba922cebcbc0016d">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.01)
-- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (149/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/HonGong_ML_DL">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.03.26)
+- 혼자 공부하는 머신러닝 + 딥러닝, 박해선 저, 한빛미디어 (173/550)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/HonGong_ML_DL">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.12.01)
 - Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (--/394)
-<!--
-- 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_TextBook_SKTF">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
-- Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_Mathematics/tree/master/Coding%20The%20Matrix">[Repo]</a>
-- 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_Guide">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
-- 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/DL_from_Scratch">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
--->
 - 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
 - 미래를 바꾼 아홉 가지 알고리즘, 존 맥코믹 저, 에이콘 (29/307)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (25/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
-
+<!--- 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_TextBook_SKTF">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
+- Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_Mathematics/tree/master/Coding%20The%20Matrix">[Repo]</a>
+- 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_Guide">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
+- 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/DL_from_Scratch">[Repo]</a>&nbsp;&nbsp;(Last Update: None)-->
 
 ### ✒ Lectures to Study
 - 패스트캠퍼스: 머신러닝과 데이터분석 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_dataadv">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>
 - 패스트캠퍼스: 딥러닝/인공지능&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_deep">[Lecture]</a>&nbsp;&nbsp;
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_rein">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
-- 패스트캠퍼스: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_rs">[Lecture]</a>
+- 패스트캠퍼스: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_rs">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
