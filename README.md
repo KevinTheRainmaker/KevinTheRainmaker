@@ -8,9 +8,10 @@
 ----
 ### 😄 Profile
 - Born in 1999, Nov. 17th
-- Blood Type: Rh+ A 
+- Blood Type: Rh+ A
+- MBTI: INFJ
 - Attending in GIST 
-- Interested in Reinforcement Learning / MLOps
+- Interested in Reinforcement Learning, Recommender System, MLOps
 </br>
 
 ### 📫 Contact Address
