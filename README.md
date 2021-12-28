@@ -1,6 +1,15 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangbeenKo&count_bg=%23C5CDFF&title_bg=%236DF560&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KangbeenKo)
+
+<!--
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KangbeenKo/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KangbeenKo/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KangbeenKo/discussion)
+-->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=KevinTheRainmaker&fontSize=30&animation=twinkling)
