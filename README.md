@@ -80,15 +80,17 @@
 ### 1st
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms">[Repo]</a>
 - **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>
-- **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
+- **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
 - **NLP**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/GDSC-GIST/AI-ML_Team_5">[Repo]</a>
 ### 2nd
 - **Data Analysis & Kaggle Tutorial**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Kaggle_Novice_to_GrandMaster">[Repo]</a>
-- **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
-- **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a>
+- **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
+- **OS**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%20%EA%B8%B0%EB%B3%B8/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28OS%29">[Link]</a>
 ### 3rd
+- **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a
 - **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Django_Study">[Repo]</a>
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
+- **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a>
 
 ### 📚 Books to Read
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (238/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure%20%26%20Algorithms">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.12.14)
