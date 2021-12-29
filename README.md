@@ -48,7 +48,7 @@
 
 ### 💻 Working in
 - GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
-  - Intern (2020.09~2021.09)
+  > Intern (2020.09~2021.09)
 </br>
 
 - Start-up 'GroupBy (그룹바이)'
