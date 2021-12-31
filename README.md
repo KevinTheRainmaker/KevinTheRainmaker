@@ -108,6 +108,8 @@
 - 패스트캠퍼스: 딥러닝/인공지능&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_deep">[Lecture]</a>&nbsp;&nbsp;
 - 패스트캠퍼스: 모델 성능 개선으로 익히는 강화학습 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_rein">[Lecture]</a>&nbsp;&nbsp;<a href = "https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
 - 패스트캠퍼스: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_rs">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>
+- UDEMY: 머신 러닝 & AI 로 추천 시스템 구축하기&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.udemy.com/course/best-recommender-system/">[Lecture]</a><!--&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>-->
+- UDEMY: AI 만들기 : 강화학습과 인공신경망 완전 정복&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.udemy.com/course/best-ai-17-hours/">[Lecture]</a>
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
