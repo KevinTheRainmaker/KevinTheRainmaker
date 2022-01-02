@@ -29,7 +29,7 @@
 </br>
 
 - Instagram
-  - <a href = "https://www.instagram.com/kevin_rain_99">Daily</a>
+  - <a href = "https://www.instagram.com/riverbeen_u_everseen/">Daily</a>
   - <a href = "https://www.instagram.com/groupby_official/">GrouBy Official</a>
   - <a href = "https://www.instagram.com/gdsc_kr_gist/">GDSC GIST Official</a>
 </br>
