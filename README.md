@@ -82,6 +82,7 @@
 - **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>
 - **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
 - **NLP**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/GDSC-GIST/AI-ML_Team_5">[Repo]</a>
+- **GNN**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/ML_DL_Basics/GNN_Study">[Repo]</a>
 ### 2nd: Necessary
 - **Data Analysis & Kaggle Tutorial**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Kaggle_Novice_to_GrandMaster">[Repo]</a>
 - **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
