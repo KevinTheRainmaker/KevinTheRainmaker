@@ -95,7 +95,7 @@
 ### 📚 Books Currently Reading
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (238/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure%20%26%20Algorithms">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.12.14)
 - 살아 움직이는 머신러닝 파이프라인 설계, 하네스 하프케 외 1인 저, O'REILLY (162/414)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;(Last Update: 22.01.26)
-- Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (36/394)&nbsp;&nbsp;(Last Update: 22.01.24)
+- Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (43/394)&nbsp;&nbsp;(Last Update: 22.01.27)
 - 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
 <!---
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (25/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Reinforcement_Learning_AtoZ">[Repo]</a>
