@@ -87,6 +87,7 @@
 - **Data Analysis & Kaggle Tutorial**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Kaggle_Novice_to_GrandMaster">[Repo]</a>
 - **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
 - **OS**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%20%EA%B8%B0%EB%B3%B8/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28OS%29">[Link]</a>
+- **Reinforcement Learning**
 ### 3rd: Optional
 - **Paper review**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Paper_Review">[Repo]</a>
 - **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Django_Study">[Repo]</a>
