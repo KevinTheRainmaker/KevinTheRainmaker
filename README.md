@@ -81,10 +81,10 @@
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms">[Repo]</a>
 - **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>
 - **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
-- **NLP**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/GDSC-GIST/AI-ML_Team_5">[Repo]</a>
 - **GNN**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/ML_DL_Basics/tree/master/GNN_Study">[Repo]</a>
 - **Web Crawling**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>
 ### 2nd: Necessary
+- **NLP**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/GDSC-GIST/AI-ML_Team_5">[Repo]</a>
 - **Data Analysis & Kaggle Tutorial**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Kaggle_Novice_to_GrandMaster">[Repo]</a>
 - **Data Structure & Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>
 - **OS**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%20%EA%B8%B0%EB%B3%B8/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28OS%29">[Link]</a>
