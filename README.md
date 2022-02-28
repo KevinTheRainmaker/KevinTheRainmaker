@@ -12,6 +12,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
 
+<a href="https://opgc.me/#/users/KevinTheRainmaker" target="_blank"><img src="https://api.opgc.me/githubs/users/KevinTheRainmaker/tag/?border=gradient" /></a>
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=KevinTheRainmaker&fontSize=30&animation=twinkling)
 
 
