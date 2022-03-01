@@ -45,7 +45,7 @@
 ### 🔭 Education
 - Gwangju Institute of Science and Technology (GIST, 광주과학기술원)
   - Bachelor's degree (2019.03~)
-  > Leave of absence for Start-up (2021.09~2022.02)  
+  > Leave of absence for Start-up (2021.09~2022.09)  
 </br>
 
 
@@ -57,13 +57,16 @@
 - Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
 
   > CTO & Co-Founder (2021.06~)
+  > 
   > ML Engineer (2021.06~)
 </br>
 
 - <a href = "https://gdsc.community.dev/gwangju-institute-of-science-and-technology/">GDSC GIST</a>
 
   > Core Member (2021.08~) : Technology Team
+  >
   > ML Part Leader (2021.09~)
+  >
   > Technical interviewer (2021.09)
 </br>
 
