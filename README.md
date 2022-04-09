@@ -37,6 +37,7 @@
   - <a href = "https://www.instagram.com/gdsc_kr_gist/">GDSC GIST Official</a>
 </br>
 
+
 - Blog (Tistory)
   - <a href = "https://kevin-rain.tistory.com/">성장通</a>
 </br>
