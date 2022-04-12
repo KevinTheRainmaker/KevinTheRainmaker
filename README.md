@@ -16,7 +16,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=KevinTheRainmaker&fontSize=30&animation=twinkling)
 
-
 ----
 ### 😄 Profile
 - Born in 1999, Nov. 17th
