@@ -123,6 +123,7 @@
 - 패스트캠퍼스: 머신러닝 서비스 구축을 위한 실전 MLOps 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_mlops">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Data_and_Model_Management">[Repo]</a>
 - UDEMY: 머신 러닝 & AI 로 추천 시스템 구축하기&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.udemy.com/course/best-recommender-system/">[Lecture]</a><!--&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>-->
 - UDEMY: AI 만들기 : 강화학습과 인공신경망 완전 정복&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.udemy.com/course/best-ai-17-hours/">[Lecture]</a>
+- The RED : 현실 데이터를 활용한 추천시스템 구현 A to Z by 번개장터 CTO 이동주&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_red_ldj">[Lecture]</a>
 ----
 <!--
 **KangbeenKo/KangbeenKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
