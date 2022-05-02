@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangbeenKo&count_bg=%23C5CDFF&title_bg=%236DF560&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KangbeenKo)
+<!-- ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KangbeenKo) -->
 
 <!--
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
@@ -107,7 +107,7 @@
 - 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
 - 웹 크롤링과 데이터 분석 with 파이썬, 장철원 저, 프로그래밍 인사이트 (102/293)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>&nbsp;&nbsp;(Last Update: 22.02.03)
 -->
-- Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (50/394)&nbsp;&nbsp;(Last Update: 22.05.02)
+- Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (53/394)&nbsp;&nbsp;(Last Update: 22.05.03)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (65/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/Reinforcement%20Learning">[Link]</a>&nbsp;&nbsp;(Last Update: 22.04.26)
 <!---
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_TextBook_SKTF">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
