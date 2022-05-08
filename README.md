@@ -12,8 +12,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
 
-<a href="https://opgc.me/#/users/KevinTheRainmaker" target="_blank"><img src="https://api.opgc.me/githubs/users/KevinTheRainmaker/tag/?theme=basic" /></a>
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=KevinTheRainmaker&fontSize=30&animation=twinkling)
 
 ----
@@ -144,3 +142,5 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
 <!--[![KevinTheRainmaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinTheRainmaker)](https://wakatime.com/@KevinTheRainmaker)-->
+
+<a href="https://opgc.me/#/users/KevinTheRainmaker" target="_blank"><img src="https://api.opgc.me/githubs/users/KevinTheRainmaker/tag/?theme=basic" /></a>
