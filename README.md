@@ -54,7 +54,7 @@
   > Intern (2020.09~2021.09)
 </br>
 
-- Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
+- Start-up <a href='https://groupby.super.site/'>'GroupBy (그룹바이)'</a>
 
   > CTO & Co-Founder (2021.06~)
   > 
