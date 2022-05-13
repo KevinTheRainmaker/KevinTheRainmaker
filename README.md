@@ -54,7 +54,7 @@
   > Intern (2020.09~2021.09)
 </br>
 
-- Start-up <a href='https://groupby.super.site/'>'GroupBy (그룹바이)'</a>
+- Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
 
   > CTO & Co-Founder (2021.06~)
   > 
@@ -107,7 +107,7 @@
 - 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
 - 웹 크롤링과 데이터 분석 with 파이썬, 장철원 저, 프로그래밍 인사이트 (102/293)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>&nbsp;&nbsp;(Last Update: 22.02.03)
 -->
-- Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (53/394)&nbsp;&nbsp;(Last Update: 22.05.03)
+- Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (56/394)&nbsp;&nbsp;(Last Update: 22.05.13)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (65/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/Reinforcement%20Learning">[Link]</a>&nbsp;&nbsp;(Last Update: 22.04.26)
 - The Practitioner's Guide to Graph Data, O'REILLY, 데니즈 고즈넬/마티아스 브뢰헬러 저 (/442)&nbsp;&nbsp;&nbsp;&nbsp;
 <!---
