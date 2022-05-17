@@ -116,6 +116,7 @@
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_Guide">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
 - 처음 시작하는 딥러닝, 세스 와이드먼 저, 한빛미디어 (--/273)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/DL_from_Scratch">[Repo]</a>&nbsp;&nbsp;(Last Update: None)-->
 
+<!--
 ### ✒ Lectures to Study
 - 패스트캠퍼스: 머신러닝과 데이터분석 A-Z&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_dataadv">[Lecture]</a>&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D">[Link]</a>
 - 패스트캠퍼스: 딥러닝/인공지능&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.fastcampus.co.kr/data_online_deep">[Lecture]</a>&nbsp;&nbsp;
@@ -123,6 +124,7 @@
 - 패스트캠퍼스: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_rs">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>
 - 패스트캠퍼스: 머신러닝 서비스 구축을 위한 실전 MLOps 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_mlops">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Data_and_Model_Management">[Repo]</a>
 - The RED : 현실 데이터를 활용한 추천시스템 구현 A to Z by 번개장터 CTO 이동주&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_red_ldj">[Lecture]</a>
+-->
 ----
 
 <!--
