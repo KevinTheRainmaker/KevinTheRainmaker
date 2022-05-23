@@ -83,9 +83,14 @@
 ----
 
 ### ✍ Currently Studying
-- **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms">[Repo]</a>
-- **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics">[Repo]</a>
+- **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C">[Link]</a>
+- **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%9D%B4%EB%A1%A0">[Link]</a>
+- **OS**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%20%EA%B8%B0%EB%B3%B8/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28OS%29">[Link]</a>
+- **Reinforcement Learning**&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://kevin-rain.tistory.com/category/ML%26DL/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5'>[Link]</a>
+- **Graph Data**&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://kevin-rain.tistory.com/category/ML%26DL/%EA%B7%B8%EB%9E%98%ED%94%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0'>[Link]</a>
+- **Cloud based Data Engineering**
 <!--
+- **GNN**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/ML_DL_Basics/tree/master/GNN_Study">[Repo]</a>
 - **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
 - **Web Crawling**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>
 - **NLP**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/GDSC-GIST/AI-ML_Team_5">[Repo]</a>
@@ -95,10 +100,6 @@
 - **Django Framework**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Django_Study">[Repo]</a>
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
 -->
-- **GNN**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/ML_DL_Basics/tree/master/GNN_Study">[Repo]</a>
-- **OS**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%20%EA%B8%B0%EB%B3%B8/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28OS%29">[Link]</a>
-- **Reinforcement Learning**&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://kevin-rain.tistory.com/category/ML%26DL/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5'>[Link]</a>
-- **Cloud based Data Engineering**
 
 ### 📚 Books Currently Reading
 <!--
