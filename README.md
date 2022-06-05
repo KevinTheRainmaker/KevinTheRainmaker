@@ -112,7 +112,7 @@
 - Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (56/394)&nbsp;&nbsp;(Last Update: 22.05.13)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (104/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/Reinforcement%20Learning">[Link]</a>&nbsp;&nbsp;(Last Update: 22.05.20)
 - The Practitioner's Guide to Graph Data, 데니즈 고즈넬/마티아스 브뢰헬러 저, O'Reilly (90/442)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.02)
-- 밑바닥부터 시작하는 딥러닝 3, 사이토 고키 저, O'Reilly (43/520)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.04)
+- 밑바닥부터 시작하는 딥러닝 3, 사이토 고키 저, O'Reilly (49/520)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.05)
 <!---
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_TextBook_SKTF">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
 - Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_Mathematics/tree/master/Coding%20The%20Matrix">[Repo]</a>
