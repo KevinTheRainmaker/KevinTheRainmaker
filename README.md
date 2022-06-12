@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangbeenKo&count_bg=%23C5CDFF&title_bg=%236DF560&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KangbeenKo) -->
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KangbeenKo)
 
 <!--
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
@@ -104,17 +104,15 @@
 -->
 
 ### 📚 Books Currently Reading
-<!--
-- 열혈 자료구조, 윤성우 저, 오렌지미디어 (238/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure%20%26%20Algorithms">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.12.14)
-- 살아 움직이는 머신러닝 파이프라인 설계, 하네스 하프케 외 1인 저, O'REILLY (162/414)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;(Last Update: 22.01.26)
-- 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
-- 웹 크롤링과 데이터 분석 with 파이썬, 장철원 저, 프로그래밍 인사이트 (102/293)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>&nbsp;&nbsp;(Last Update: 22.02.03)
--->
 - Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (56/394)&nbsp;&nbsp;(Last Update: 22.05.13)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (104/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/Reinforcement%20Learning">[Link]</a>&nbsp;&nbsp;(Last Update: 22.05.20)
 - The Practitioner's Guide to Graph Data, 데니즈 고즈넬/마티아스 브뢰헬러 저, O'Reilly (90/442)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.02)
 - 밑바닥부터 시작하는 딥러닝 3, 사이토 고키 저, O'Reilly (49/520)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.05)
 <!---
+- 열혈 자료구조, 윤성우 저, 오렌지미디어 (238/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure%20%26%20Algorithms">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.12.14)
+- 살아 움직이는 머신러닝 파이프라인 설계, 하네스 하프케 외 1인 저, O'REILLY (162/414)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;(Last Update: 22.01.26)
+- 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
+- 웹 크롤링과 데이터 분석 with 파이썬, 장철원 저, 프로그래밍 인사이트 (102/293)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>&nbsp;&nbsp;(Last Update: 22.02.03)
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로, 세바스찬 라시카 외 1인 저, 길벗 (64/609)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_TextBook_SKTF">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
 - Coding The Matrix, 필립 클라인 저, 루비페이퍼 (--/588)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Coding_Mathematics/tree/master/Coding%20The%20Matrix">[Repo]</a>
 - 파이썬 머신러닝 완벽 가이드, 권철민 저, 위키북스 (117/625)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/ML_DL_Basics/ML_Guide">[Repo]</a>&nbsp;&nbsp;(Last Update: None)
@@ -128,10 +126,6 @@
 - 패스트캠퍼스: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_rs">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>
 - 패스트캠퍼스: 머신러닝 서비스 구축을 위한 실전 MLOps 올인원 패키지 Online.&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_online_mlops">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Data_and_Model_Management">[Repo]</a>
 - The RED : 현실 데이터를 활용한 추천시스템 구현 A to Z by 번개장터 CTO 이동주&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fastcampus.co.kr/data_red_ldj">[Lecture]</a>
--->
-----
-
-<!--
 - UDEMY: 머신 러닝 & AI 로 추천 시스템 구축하기&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.udemy.com/course/best-recommender-system/">[Lecture]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/tree/main/colab/fastcampus">[Repo]</a>
 - UDEMY: AI 만들기 : 강화학습과 인공신경망 완전 정복&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.udemy.com/course/best-ai-17-hours/">[Lecture]</a>
 -->
