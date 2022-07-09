@@ -108,12 +108,12 @@
 - **Coding Test**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://programmers.co.kr/learn/challenges">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/CodingTest">[Repo]</a>
 -->
 
+<!---
 ### 📚 Books Currently Reading
 - Do it! 딥러닝 교과서, 윤성진 저, 이지스퍼블리싱 (56/394)&nbsp;&nbsp;(Last Update: 22.05.13)
 - 파이썬과 케라스로 배우는 강화학습, 이웅원 외 4인 저, 위키북스 (104/345)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/Reinforcement%20Learning">[Link]</a>&nbsp;&nbsp;(Last Update: 22.05.20)
 - The Practitioner's Guide to Graph Data, 데니즈 고즈넬/마티아스 브뢰헬러 저, O'Reilly (90/442)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.02)
 - 밑바닥부터 시작하는 딥러닝 3, 사이토 고키 저, O'Reilly (49/520)&nbsp;&nbsp;&nbsp;&nbsp;(Last Update: 22.06.05)
-<!---
 - 열혈 자료구조, 윤성우 저, 오렌지미디어 (238/600)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/Data%20Structure%20%26%20Algorithms">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/DataStructure">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.12.14)
 - 살아 움직이는 머신러닝 파이프라인 설계, 하네스 하프케 외 1인 저, O'REILLY (162/414)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;(Last Update: 22.01.26)
 - 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집, 이경택 외 8인 저, 비제이퍼블릭 (42/360)&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/Pytorch_Projects">[Repo]</a>&nbsp;&nbsp;(Last Update: 21.10.12)
