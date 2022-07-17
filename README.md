@@ -94,8 +94,9 @@
 - **OS**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B3%B5%ED%95%99%20%EA%B8%B0%EB%B3%B8/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28OS%29">[Link]</a>
 - **Graph Data**&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://kevin-rain.tistory.com/category/ML%26DL/%EA%B7%B8%EB%9E%98%ED%94%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0'>[Link]</a>
 - **Cloud based Data Engineering**
-- <!-- - **Reinforcement Learning**&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://kevin-rain.tistory.com/category/ML%26DL/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5'>[Link]</a> -->
-<!--
+- **Semantic Segmentation**
+<!-- 
+- **Reinforcement Learning**&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://kevin-rain.tistory.com/category/ML%26DL/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5'>[Link]</a>
 - **GNN**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/ML_DL_Basics/tree/master/GNN_Study">[Repo]</a>
 - **MLOps**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/MLOps">[Link]</a>&nbsp;&nbsp;<a href = "https://github.com/KevinTheRainmaker/MLOps">[Repo]</a>
 - **Web Crawling**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KevinTheRainmaker/Web_Crawling_and_Data_Analysis">[Repo]</a>
