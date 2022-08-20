@@ -50,13 +50,22 @@
 - Gwangju Institute of Science and Technology (GIST, 광주과학기술원)
   - Bachelor's degree (2019.03~)
   > Leave of absence for Start-up (2021.09~2022.09)  
+
 </br>
 
-
-### 💻 Working in
 - GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
   > Intern (2020.09~2021.09)
+
 </br>
+
+- GIST 'Autonomous Computing Systems Lab. (ACSL, 자율컴퓨팅시스템 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://uehwan.github.io/">[Link]</a>
+  > Intern (2022.09~)
+  
+</br>
+
+### 💻 Working in
+  > Intern (2020.09~2021.09)
+  > Intern (2020.09~2021.09)
 
 - Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
 
