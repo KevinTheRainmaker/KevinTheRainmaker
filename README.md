@@ -64,8 +64,6 @@
 </br>
 
 ### 💻 Working in
-  > Intern (2020.09~2021.09)
-  > Intern (2020.09~2021.09)
 
 - Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
 
