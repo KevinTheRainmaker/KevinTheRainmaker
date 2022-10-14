@@ -97,7 +97,7 @@
 ### ✍ Currently Studying
 - **Computer Vision**&nbsp;&nbsp;&nbsp;&nbsp;<a href = 'https://github.com/KevinTheRainmaker/ML_DL_Basics/tree/master/ComputerVision'>[Repository]</a>
 - **3D Scene Graph**&nbsp;&nbsp;&nbsp;&nbsp;<a href = 'https://ieeexplore.ieee.org/abstract/document/8796400'>[Paper]</a>
-- **Pixel-level Classification** *with SIA*&nbsp;&nbsp;&nbsp;&nbsp;<a href=''>[Notion]</a>
+- **Change Detection** *with SIA*&nbsp;&nbsp;&nbsp;&nbsp;<a href=''>[Notion]</a>
 
 <!-- 
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C">[Link]</a>
