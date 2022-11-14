@@ -67,18 +67,20 @@
 
 - Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
 
-  > Co-Founder (2021.06~)
+  > Co-Founder (2021.05~2022.09)
   > 
-  > ML Engineer & AI Researcher (2021.06~)
+  > ML Engineer & AI Researcher (2021.05~2022.09)
 </br>
 
 - <a href = "https://gdsc.community.dev/gwangju-institute-of-science-and-technology/">GDSC GIST</a>
 
-  > Core Member (2021.08~) : Technology Team
-  >
-  > ML Part Leader (2021.09~)
-  >
-  > Technical interviewer (2021.09)
+  > 1st Core Member (2021.08~2022.08) : Technology Team
+    > - ML Part Leader (2021.09~2022.08)
+    > - Technical interviewer (2021.09)
+
+
+  > 2nd AI Mentor (2022.11~)
+
 </br>
 
 
