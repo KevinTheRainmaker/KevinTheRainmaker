@@ -60,7 +60,8 @@
 
 - GIST 'Autonomous Computing Systems Lab. (ACSL, 자율컴퓨팅시스템 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://uehwan.github.io/">[Link]</a>
   > Intern (2022.09~)
-  > 'A Survey on 3D Scene Graphs: Definition, Generation and Application', RiTA, 2022 공저자 참여 (제3저자)
+  > 
+  > "A Survey on 3D Scene Graphs: Definition, Generation and Application", RiTA 2022 - 공저자 참여 (제3저자)
   > 
 </br>
 
