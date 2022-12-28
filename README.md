@@ -19,7 +19,7 @@
 ### 😄 Profile
 - Born in 1999, Nov. 17th
 - Attending in GIST 
-- Interested in Reinforcement Learning, Recommender System, MLOps
+- Interested in Semantic Understanding, Embodied AI, Autonomous Robot Learning, XAI and MLOps
 </br>
 
 ### 📫 Contact Address
