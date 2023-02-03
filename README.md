@@ -23,10 +23,7 @@
 </br>
 
 ### 📫 Contact Address
-- Email
-  - eyeoftyphoon@gist.ac.kr
-  - sweetrainforyou@gmail.com
-  - springrain@groupby.biz
+- Email: sweetrainforyou@gmail.com
 </br>
 
 - Instagram
@@ -35,11 +32,9 @@
   - <a href = "https://www.instagram.com/gdsc_kr_gist/">GDSC GIST Official</a>
 </br>
 
-
 - Blog (Tistory)
   - <a href = "https://kevin-rain.tistory.com/">성장通</a>
 </br>
-
 
 - About Me (Notion)
   - <a href ='https://hallowed-quokka-505.notion.site/Kevin-2b4a7e41b1f84a728449afa8bfa77ba3'>상상하는 개발자</a>
