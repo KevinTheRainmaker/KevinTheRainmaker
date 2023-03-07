@@ -9,7 +9,7 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KangbeenKo/discussion)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTheRainmaker&&hide=jupyter%20notebook&&exclude_repo=kangbeenko&layout=compact)](https://github.com/KevinTheRainmaker/github-readme-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KevinTheRainmaker&show_icons=true&theme=onedark)
 
