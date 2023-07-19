@@ -65,6 +65,10 @@
 </br>
 
 ### 💻 Working in
+- SNUBH Medical AI Center
+  > Research Intern
+  >
+  > Chronical Kidney Disease 연구 및 논문 작성 참여
 
 - Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
 
