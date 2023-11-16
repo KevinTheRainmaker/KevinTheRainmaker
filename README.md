@@ -19,7 +19,7 @@
 ### 😄 Profile
 - Born in 1999, Nov. 17th
 - Attending in GIST 
-- Interested in Semantic Understanding, Embodied AI, Autonomous Robot Learning, XAI and MLOps
+- Interested in Semantic Understanding, Embodied AI, Autonomous Learning, XAI and MLOps
 </br>
 
 ### 📫 Contact Address
@@ -46,6 +46,12 @@
   > Bachelor's degree (2019.03~) / Leave of absence for Start-up (2021.09~2022.09)  
 
 </br>
+- GIST 'Autonomous Computing Systems Lab. (ACSL, 자율컴퓨팅시스템 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://uehwan.github.io/">[Link]</a>
+  > Intern (2022.09~2023.02)
+  - 3D Scene Graph 연구 보조
+  - 3D Scene Graph 관련 Survey paper 공저자 (RiTA 2022 Accept)
+  - Synthetic 데이터셋 구축 프로젝트 참여
+  - 3D Scene Graph Visualization Tool 제작 참여 (제2저작자)
 
 - GIST 'Bioinformatics and Intelligence Lab. (BIIL, 지능형 생명정보 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.biil-gist.net/">[Link]</a>
   > Intern (2020.09~2021.09)
@@ -54,13 +60,6 @@
   - 약물 독성 데이터셋 구축
   - 독성 예측 모델 학습 및 구현
 </br>
-
-- GIST 'Autonomous Computing Systems Lab. (ACSL, 자율컴퓨팅시스템 연구실)' &nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://uehwan.github.io/">[Link]</a>
-  > Intern (2022.09~)
-  - 3D Scene Graph 연구 보조
-  - 3D Scene Graph 관련 Survey paper 공저자 (RiTA 2022 Accept)
-  - Synthetic 데이터셋 구축 프로젝트 참여
-  - 3D Scene Graph Visualization Tool 제작 참여 (제2저작자)
 
 </br>
 
@@ -71,45 +70,37 @@
   > Chronical Kidney Disease 연구 및 논문 작성 참여
 
 - Start-up <a href='https://groupby.oopy.io/'>'GroupBy (그룹바이)'</a>
-
   > Co-Founder (2021.05~2022.09)
   > 
   > ML Engineer & AI Researcher (2021.05~2022.09)
 </br>
 
 - <a href = "https://gdsc.community.dev/gwangju-institute-of-science-and-technology/">GDSC GIST</a>
-
   > 1st Core Member (2021.08~2022.08) : Technology Team
     - ML Part Leader (2021.09~2022.08)
     - Technical interviewer (2021.09)
-
   > 2nd AI Mentor (2022.11~)
 
 </br>
 
 
 ### ⚡ Prize & Honor
-- 2021 X-IST 공동창업경진대회 참가
+- 2020 GIST 창의융합경진대회 알고리즘 부문 2위
+- 2020 오아시스 해커톤 특별상
 - 2021 KAIST E*5 2차 진출
 - 2021 학생창업유망팀 300 경진대회 창업도전형 최종선정
 - 2021 이노폴리스캠퍼스 최종 선정
 - 2021 예비창업패키지 AI 특화분야 최종 선정 (2021 최우수 기업 선정)
-- 2022 SGM AI 2기 서류 합격
-- 한빛미디어 IT 기술서적 전문리뷰어 활동 진행
-- 비제이퍼블릭, ‘예제부터 배우는 거꾸로 파이썬’ 베타리더 및 추천사 작성
+- 2023 GDSC GIST 해커톤 CJ올리브네트웍스 CTO상
+- 2023 K-ium 의료인공지능 경진대회 부산대학병원장상(우수상)
 - TOEIC 공인영어성적 945점 (RC 450 / LC 495)
-- 2019, 2020, 2021 GIST 무한도전(5기 팀원 / 4기, 6기 팀장) 선정
+- 2019, 2020, 2021, 2023 GIST 무한도전(5기 팀원 / 4기, 6기, 8기 팀장) 선정
+
 
 </br>
 
 
 ----
-
-### ✍ Currently Studying
-- **Computer Vision**&nbsp;&nbsp;&nbsp;&nbsp;<a href = 'https://github.com/KevinTheRainmaker/ML_DL_Basics/tree/master/ComputerVision'>[Repository]</a>
-- **3D Scene Graph**&nbsp;&nbsp;&nbsp;&nbsp;<a href = 'https://ieeexplore.ieee.org/abstract/document/8796400'>[Paper]</a>
-- **Change Detection** *with SIA*
-
 <!-- 
 - **Recommendation Algorithms**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C">[Link]</a>
 - **Machine Learning Basics**&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://kevin-rain.tistory.com/category/ML%26DL/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%9D%B4%EB%A1%A0">[Link]</a>
@@ -170,6 +161,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--[![KevinTheRainmaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinTheRainmaker)](https://wakatime.com/@KevinTheRainmaker)-->
+<!--[![KevinTheRainmaker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinTheRainmaker)](https://wakatime.com/@KevinTheRainmaker)
 
-<a href="https://opgc.me/#/users/KevinTheRainmaker" target="_blank"><img src="https://api.opgc.me/githubs/users/KevinTheRainmaker/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/KevinTheRainmaker" target="_blank"><img src="https://api.opgc.me/githubs/users/KevinTheRainmaker/tag/?theme=basic" /></a>-->
