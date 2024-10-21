@@ -15,6 +15,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=KevinTheRainmaker&fontSize=30&animation=twinkling)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/KevinTheRainmaker"
+    width="600"
+    height="110"
+  />
+</a>
+  
 ----
 ### 😄 Profile
 - Born in 1999, Nov. 17th
